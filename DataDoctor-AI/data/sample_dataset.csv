@@ -1,0 +1,613 @@
+Customer_ID,Age,Gender,City,Monthly_Income,Years_With_Company,Monthly_Spend,Support_Calls,Contract_Type,Payment_Method,Last_Purchase_Days,Customer_Satisfaction,Total_Orders,Churn
+C0082,34,Female,Mumbai,20610.0,6.8,3656.0,4,Two year,Credit Card,2,5.1,11,No
+C0219,31,Female,Mumbai,59171.0,3.5,4909.0,6,One year,Debit Card,18,6.9,22,Yes
+C0056,27,Male,Coimbatore,,2.5,5738.0,2,Month-to-month,UPI,35,6.3,20,Yes
+C0262,44,Male,Coimbatore,57531.0,2.9,5071.0,0,Month-to-month,Debit Card,17,6.8,15,No
+C0265,31,Female,Pune,59690.0,6.9,4935.0,2,Month-to-month,Cash,54,5.4,22,No
+C0156,47,Male,Chennai,81129.0,4.1,3387.0,3,monthly,Net Banking,12,5.0,18,Yes
+C0484,40,Female,Mumbai,34322.0,2.1,2189.0,1,Month-to-month,Credit Card,51,6.9,24,No
+C0322,20,Female,Delhi,94057.0,3.6,5541.0,2,Month-to-month,UPI,26,8.3,23,No
+C0583,23,Male,Hyderabad,55900.0,6.9,2213.0,1,Month-to-month,Cash,1,5.0,21,No
+C0292,27,Male,Chennai,56691.0,6.4,500.0,4,Month-to-month,UPI,32,8.4,25,No
+C0239,24,Male,Mumbai,57711.0,7.6,8194.0,6,Month-to-month,Cash,36,5.9,22,No
+C0251,20,Female,Bangalore,24061.0,6.7,3213.0,0,Month-to-month,UPI,32,5.7,23,No
+C0197,51,Female,Delhi,43209.0,4.4,5232.0,1,Month-to-month,UPI,30,,20,No
+C0395,28,Male,Bangalore,100630.0,1.7,-500.0,2,Month-to-month,Credit Card,39,6.6,13,No
+C0291,39,Male,Chennai,52112.0,1.6,4454.0,0,One year,Debit Card,54,6.2,18,No
+C0321,40,Female,Hyderabad,40783.0,2.4,2906.0,0,Two year,Net Banking,49,7.2,13,No
+C0548,42,Female,Mumbai,81485.0,3.4,2918.0,0,One year,UPI,5,6.5,18,No
+C0526,41,Male,Hyderabad,36976.0,7.1,5531.0,1,Month-to-month,Credit Card,32,6.3,26,No
+C0011,33,Male,Chennai,54395.0,6.2,5373.0,1,Two year,Credit Card,8,6.6,18,No
+C0003,33,Other,Delhi,62110.0,1.2,3056.0,3,Month-to-month,UPI,13,8.0,29,Yes
+C0193,18,Male,Coimbatore,71254.0,6.2,3457.0,1,One year,UPI,1,5.2,18,No
+C0228,24,Female,Bangalore,75963.0,7.9,4088.0,4,One year,Net Banking,28,6.7,26,No
+C0430,43,Male,Chennai,59911.0,6.7,4262.0,1,One year,Credit Card,32,7.4,16,No
+C0177,19,Female,Mumbai,69797.0,4.1,3739.0,3,Month-to-month,upi,25,5.5,18,No
+C0132,36,Female,Chennai,52402.0,5.4,7233.0,1,Month-to-month,UPI,1,8.8,15,No
+C0384,25,Male,Pune,66019.0,4.8,4720.0,4,One year,Net Banking,1,9.4,13,No
+C0473,29,Male,Chennai,37567.0,1.4,4564.0,2,One year,Debit Card,39,8.8,15,No
+C0164,41,Female,Hyderabad,25388.0,4.7,3063.0,6,Month-to-month,UPI,18,7.7,16,No
+C0300,43,Female,Chennai,55415.0,7.0,4717.0,2,One year,UPI,1,6.9,14,No
+C0261,34,Male,Mumbai,18000.0,1.7,3244.0,2,Month-to-month,Net Banking,8,8.8,13,Yes
+C0105,38,Female,Coimbatore,47635.0,4.3,4649.0,1,Month-to-month,Credit Card,24,5.4,17,No
+C0211,28,Female,Hyderabad,52702.0,2.0,3990.0,3,Month-to-month,Net Banking,1,4.9,25,No
+C0078,19,Male,Chennai,90743.0,1.5,1383.0,3,Month-to-month,UPI,55,7.2,20,Yes
+C0378,26,Male,Chennai,30211.0,1.0,2677.0,3,One year,Credit Card,31,7.5,16,No
+C0545,29,Other,Mumbai,41412.0,5.7,4978.0,4,Month-to-month,Cash,24,5.6,24,Yes
+C0425,34,Male,Chennai,41895.0,5.9,834.0,2,Month-to-month,Net Banking,40,7.8,17,No
+C0594,20,Male,Bangalore,49216.0,4.4,3088.0,0,Month-to-month,UPI,25,4.5,21,No
+C0205,36,Female,Mumbai,72599.0,4.3,4028.0,3,Month-to-month,UPI,7,3.8,14,No
+C0362,21,Female,Mumbai,55141.0,0.9,3105.0,3,Month-to-month,Credit Card,39,4.6,20,Yes
+C0031,27,Female,Mumbai,54530.0,6.0,4734.0,3,One year,UPI,1,6.6,18,No
+C0568,29,Female,Bangalore,31419.0,4.6,4484.0,0,Two year,Credit Card,26,5.0,22,No
+C0451,36,Female,Delhi,33624.0,5.1,1731.0,3,Month-to-month,UPI,25,8.0,14,No
+C0381,34,Female,,,5.9,4675.0,2,Month-to-month,Credit Card,18,6.2,15,No
+C0356,26,Male,Mumbai,61164.0,7.8,7345.0,4,Month-to-month,UPI,3,9.8,20,No
+C0102,30,Female,Mumbai,36380.0,7.3,6164.0,1,Two year,UPI,31,7.3,17,No
+C0054,26,Male,Pune,56357.0,2.9,6055.0,2,One year,Net Banking,11,5.5,14,No
+C0196,40,Male,Bangalore,78892.0,7.0,2673.0,3,Month-to-month,UPI,13,8.0,26,No
+C0245,42,Female, Chennai ,38666.0,6.1,4590.0,1,Two year,UPI,1,7.8,15,No
+C0071,27,Male,Delhi,50976.0,0.8,2946.0,4,One year,Credit Card,31,8.9,25,Yes
+C0235,40,Male,Chennai,49587.0,5.7,3762.0,3,One year,Credit Card,9,6.8,14,No
+C0508,46,Female,Pune,43803.0,6.0,5230.0,1,Month-to-month,Debit Card,8,6.1,21,No
+C0154,23,Female,Hyderabad,62136.0,7.4,3928.0,1,Month-to-month,UPI,19,5.3,25,No
+C0149,42,Female,Chennai,76963.0,4.6,4895.0,1,Month-to-month,Net Banking,29,4.8,17,No
+C0083,26,Male,Bangalore,74428.0,7.9,3607.0,2,One year,Debit Card,1,6.4,16,No
+C0495,-2,Male,Hyderabad,18000.0,3.0,2645.0,1,Month-to-month,Net Banking,25,10.0,17,No
+C0232,40,Female,Hyderabad,71327.0,5.4,2536.0,1,Month-to-month,Credit Card,6,8.1,21,No
+C0440,45,Male,Chennai,79943.0,0.7,3828.0,4,Month-to-month,Net Banking,26,7.1,13,Yes
+C0269,22,Male,Bangalore,78672.0,7.6,5163.0,1,Month-to-month,UPI,47,6.1,16,Yes
+C0030,36,Male,Chennai,49035.0,4.0,3337.0,0,Two year,UPI,75,5.6,14,No
+C0518,28,Male,Pune,54795.0,0.2,2840.0,3,Two year,UPI,40,6.9,12,No
+C0212,35,Female,Mumbai,51286.0,0.2,3056.0,2,Month-to-month,UPI,1,5.7,26,No
+C0025,62,Male,Bangalore,50017.0,3.3,4938.0,0,Two year,Debit Card,1,8.7,13,No
+C0166,36,Male,Pune,97656.0,4.7,5677.0,2,Two year,Credit Card,20,7.5,17,No
+C0571,50,Male,Hyderabad,63281.0,2.2,2498.0,3,Month-to-month,UPI,8,5.1,17,Yes
+C0504,38,Male,Pune,66120.0,6.9,6127.0,3,One year,Credit Card,17,8.0,24,No
+C0141,43,Female,Coimbatore,49743.0,3.3,4947.0,3,Month-to-month,Net Banking,22,7.9,19,No
+C0276,27,Female,Hyderabad,20149.0,0.4,2563.0,4,Month-to-month,Net Banking,4,7.7,12,Yes
+C0185,22,Female,Chennai,43223.0,0.7,3323.0,2,Month-to-month,Credit Card,27,9.2,22,No
+C0236,38,Male,Delhi,36449.0,1.5,3660.0,0,Two year,UPI,30,7.6,15,No
+C0409,48,Female,Coimbatore,78887.0,4.8,6149.0,1,Month-to-month,Net Banking,17,6.1,20,No
+C0077,40,Female,Delhi,,0.5,4829.0,2,ONE YEAR,Debit Card,16,,17,No
+C0557,46,Female,Chennai,43821.0,5.6,1973.0,1,Month-to-month,Credit Card,14,5.8,13,No
+C0064,25,Male,Bangalore,74887.0,3.7,2493.0,1,Two year,Credit Card,29,8.5,21,No
+C0275,29,Female,Hyderabad,18000.0,3.2,4144.0,2,One year,Credit Card,36,3.1,20,No
+C0073,19,Female,Chennai,40789.0,6.5,4669.0,1,One year,Credit Card,32,10.0,14,No
+C0453,22,Male,Bangalore,41212.0,5.7,3681.0,2,Month-to-month,,3,8.7,26,No
+C0079,33,Female,Bangalore,62108.0,3.7,4372.0,1,One year,Net Banking,10,6.6,25,No
+C0573,34,Male,Bangalore,35867.0,5.8,1829.0,3,One year,,24,4.3,15,No
+C0354,30,Male,Chennai,41966.0,2.4,6938.0,0,Month-to-month,Cash,2,6.3,16,No
+C0382,36,Male,Mumbai,104089.0,7.1,6490.0,1,Month-to-month,UPI,26,4.1,18,No
+C0369,55,Male,Chennai,67340.0,2.2,45000.0,4,Two year,Credit Card,28,5.4,18,No
+C0549,35,Female,Hyderabad,51932.0,7.0,4001.0,2,One year,Upi,12,8.5,17,No
+C0312,28,Female,Chennai,18000.0,2.4,4845.0,1,One year,Cash,39,5.1,23,No
+C0007,52,Male,Chennai,66299.0,1.1,3111.0,3,Month-to-month,UPI,21,6.3,21,Yes
+C0332,44,Female,Delhi,72838.0,3.5,3380.0,1,Month-to-month,Credit Card,13,8.9,12,No
+C0370,31,Male,Chennai,48499.0,5.5,4686.0,1,Month-to-month,Debit Card,44,10.0,17,No
+C0482,29,Female,Mumbai,38220.0,2.5,4453.0,3,Month-to-month,Debit Card,10,9.0,17,No
+C0376,31,Male,Bangalore,64850.0,7.0,4390.0,3,Month-to-month,UPI,41,6.9,13,Yes
+C0405,29,Female,Bangalore,113176.0,2.2,5202.0,2,Month-to-month,Cash,1,8.9,15,No
+C0087,42,Male,Delhi,61573.0,7.7,5045.0,1,One year,UPI,21,9.2,15,No
+C0111,45,Female,Bangalore,55533.0,2.1,2727.0,1,Month-to-month,UPI,20,4.1,20,No
+C0266,33,Female,Delhi,38457.0,5.7,3646.0,0,Month-to-month,Cash,8,9.3,20,No
+C0483,25,Male,Bangalore,38079.0,2.6,659.0,3,Month-to-month,Net Banking,45,6.0,12,No
+C0368,47,Female,Coimbatore,90170.0,7.7,3173.0,2,Month-to-month,UPI,32,8.6,19,Yes
+C0182,19,Female,Chennai,52352.0,6.9,3030.0,2,One year,Net Banking,1,8.0,17,No
+C0146,37,Male,Chennai,47909.0,3.0,3666.0,2,Two year,UPI,26,8.3,21,No
+C0501,33,Male,Mumbai,72757.0,4.5,2928.0,5,Month-to-month,Net Banking,35,5.7,21,Yes
+C0481,38,Female,Mumbai,19634.0,1.1,6361.0,1,Month-to-month,Credit Card,52,6.5,22,Yes
+C0074,34,Male,Pune,37418.0,3.8,3230.0,1,Month-to-month,UPI,19,6.4,19,No
+C0040,26,Female,Bangalore,43361.0,0.8,4916.0,2,One year,UPI,25,8.7,13,No
+C0534,42,Male,Hyderabad,52729.0,0.7,6891.0,4,Month-to-month,Net Banking,2,7.7,20,No
+C0442,40,Male,Coimbatore,18000.0,7.4,4483.0,1,Two year,Debit Card,18,7.4,18,No
+C0067,19,Male,Chennai,68621.0,4.3,5727.0,3,Month-to-month,Net Banking,26,6.9,25,No
+C0061,29,Female,Bangalore,31413.0,1.3,2084.0,1,Month-to-month,credit card,18,4.3,20,No
+C0136,26,Male,Bangalore,54497.0,7.4,3244.0,5,One year,Net Banking,37,,15,No
+C0249,28,Other,Coimbatore,45555.0,3.1,3106.0,1,Month-to-month,Debit Card,1,8.6,17,No
+C0559,53,Female,Delhi,45029.0,3.3,6592.0,30,Two year,Net Banking,65,3.7,21,No
+C0061,29,Female,Bangalore,31413.0,1.3,2084.0,1,Month-to-month,credit card,18,4.3,20,No
+C0110,31,Female,Chennai,31514.0,5.8,7014.0,1,Month-to-month,Debit Card,1,8.3,16,No
+C0427,57,Male,Bangalore,,5.4,4543.0,3,Month-to-month,Net Banking,34,7.6,14,Yes
+C0287,18,Male,Hyderabad,18000.0,0.6,3253.0,4,One year,Net Banking,7,8.1,10,No
+C0551,40,Male,Hyderabad,55012.0,4.4,5716.0,3,Two year,Net Banking,1,6.9,13,No
+C0012,32,Female,Coimbatore,93990.0,4.2,2152.0,1,One year,Credit Card,9,3.9,24,No
+C0383,48,Female,Mumbai,69037.0,1.8,5518.0,4,Month-to-month,Net Banking,43,7.8,14,No
+C0084,31,Female,,53288.0,6.4,5517.0,3,Month-to-month,Net Banking,20,8.1,19,No
+C0091,18,Male,Chennai,57492.0,5.8,2370.0,3,One year,Debit Card,14,7.0,19,Yes
+C0282,38,Female,Bangalore,58229.0,2.0,500.0,6,Two year,Cash,9,7.6,17,No
+C0542,31,Male,Mumbai,82195.0,3.5,500.0,1,One year,Net Banking,11,6.6,18,No
+C0531,34,Male,Pune,73720.0,4.2,4039.0,5,Month-to-month,UPI,30,5.6,16,No
+C0530,34,Male,Pune,59259.0,1.9,3459.0,1,Month-to-month,Debit Card,1,5.4,18,No
+C0119,37,Male,Pune,,0.3,3134.0,3,Month-to-month,Debit Card,6,6.4,15,Yes
+C0080,23,Female,Chennai,49448.0,1.8,3726.0,2,Two year,Debit Card,13,9.2,20,No
+C0024,37,Male,Bangalore,36809.0,3.8,6739.0,5,Month-to-month,Cash,37,8.7,18,Yes
+C0562,36,Male,Chennai,61610.0,4.2,5021.0,0,Month-to-month,Credit Card,52,7.0,24,No
+C0288,22,Female,Hyderabad,39179.0,4.1,6699.0,4,One year,UPI,10,7.9,21,No
+C0323,27,Male,Mumbai,28740.0,5.5,3850.0,2,One year,Net Banking,39,9.4,16,No
+C0133,30,Male,Chennai,18000.0,1.1,5213.0,2,Month-to-month,Net Banking,32,7.7,18,No
+C0175,35,Female,Mumbai,64016.0,6.3,3316.0,1,Month-to-month,Net Banking,2,7.9,14,No
+C0339,36,Female,Hyderabad,30999.0,0.7,1249.0,3,Month-to-month,Net Banking,60,6.8,18,No
+C0178,48,Male,Bangalore,96797.0,1.8,3765.0,1,Month-to-month,credit card,29,6.0,16,No
+C0159,37,Male,Chennai,61232.0,0.5,2165.0,1,One year,UPI,17,6.7,17,No
+C0138,30,Male,Delhi,43895.0,0.6,4816.0,3,One year,Debit Card,12,5.0,15,No
+C0397,28,Male,Pune,18000.0,7.8,4664.0,2,Two year,Net Banking,41,5.6,15,No
+C0010,36,Male,Delhi,18000.0,2.5,6495.0,2,Month-to-month,Credit Card,44,7.7,20,No
+C0572,38,Male,Delhi,35155.0,0.3,5295.0,3,Two year,Cash,1,7.5,18,No
+C0576,25,Female,Coimbatore,91139.0,6.6,2846.0,4,Month-to-month,UPI,49,6.4,20,Yes
+C0305,26,Female,Delhi,41526.0,4.7,1469.0,0,Month-to-month,Cash,1,7.8,19,No
+C0599,38,Male,Chennai,70738.0,3.1,3530.0,0,Month-to-month,Credit Card,48,10.0,19,No
+C0248,43,Female,Coimbatore,54185.0,4.2,2693.0,0,Two year,Net Banking,37,5.8,15,No
+C0085,43,Female,Bangalore,51029.0,6.9,4803.0,4,Month-to-month,Credit Card,26,9.3,22,No
+C0189,32,Female,Hyderabad,-30000.0,6.5,3379.0,2,Month-to-month,Debit Card,4,5.0,29,No
+C0200,24,Male,Delhi,95440.0,0.5,4742.0,3,One year,Credit Card,1,8.6,23,No
+C0210,29,Female,Chennai,92633.0,2.6,3211.0,1,Two year,UPI,6,6.3,21,No
+C0338,36,Male,Delhi,79788.0,7.8,3787.0,4,Two year,Net Banking,53,,20,No
+C0487,22,Female,Chennai,49181.0,3.0,4098.0,0,One year,Net Banking,29,9.7,23,No
+C0183,41,Female,Coimbatore,18000.0,1.8,2034.0,3,Month-to-month,UPI,22,6.0,14,No
+C0076,26,Male,Delhi,34027.0,3.6,667.0,4,Month-to-month,Credit Card,1,7.0,23,No
+C0093,39,Male,Delhi,75223.0,4.6,4129.0,5,Month-to-month,UPI,34,8.2,21,No
+C0303,38,Male,Hyderabad,75969.0,2.2,3174.0,3,Month-to-month,UPI,13,4.8,21,No
+C0069,28,Male,Chennai,55457.0,4.1,5194.0,3,Two year,Net Banking,39,5.3,26,No
+C0016,29,Male,Chennai,65313.0,2.5,5403.0,1,Two year,Net Banking,12,6.7,17,No
+C0569,34,Male,Coimbatore,20817.0,5.1,4026.0,3,Month to month,UPI,15,5.9,25,No
+C0588,30,Female,Chennai,33124.0,6.5,5809.0,3,Month-to-month,DEBIT CARD,17,6.1,19,No
+C0089,39,Female,Pune,45620.0,7.6,5562.0,2,Month-to-month,Net Banking,42,6.5,16,No
+C0513,28,Female,Coimbatore,43470.0,1.6,3658.0,2,One year,Credit Card,21,7.7,23,No
+C0118,49,Male,Chennai,76686.0,0.3,5793.0,0,Month-to-month,Net Banking,33,8.9,12,No
+C0394,56,Female,Delhi,60263.0,6.8,3818.0,5,Month-to-month,Credit Card,1,5.2,19,Yes
+C0418,27,Female,Bangalore,54356.0,0.3,500.0,2,Month-to-month,Credit Card,37,6.3,18,No
+C0034,24,Male,Coimbatore,74449.0,7.7,4760.0,2,Month-to-month,UPI,48,6.9,17,No
+C0001,29,Male,Bangalore,58099.0,4.3,822.0,5,One year,Debit Card,38,6.3,15,Yes
+C0581,30,Male,Bangalore,43029.0,3.7,5961.0,1,Month-to-month,Debit Card,33,8.3,19,No
+C0468,25,Female,Pune,,1.0,4233.0,1,monthly,Credit Card,1,9.3,22,No
+C0355,45,Male,Chennai,54419.0,5.3,2492.0,3,One year,UPI,32,4.6,17,No
+C0341,24,Female,Hyderabad,30674.0,1.6,5994.0,0,One year,UPI,53,9.6,18,No
+C0250,21,Female,Pune,39767.0,7.5,3230.0,2,Month-to-month,Credit Card,1,8.2,21,No
+C0258,33,Female,Mumbai,38453.0,6.9,3785.0,1,One year,UPI,1,5.4,23,No
+C0023,39,Male,Bangalore,35684.0,6.3,4351.0,2,One year,Net Banking,36,7.3,17,No
+C0585,36,Female,Mumbai,71298.0,3.8,2796.0,3,Two year,Net Banking,39,6.9,14,Yes
+C0117,34,Male,Pune,50883.0,4.1,5326.0,2,Month-to-month,,25,8.5,19,No
+C0090,47,Female,Hyderabad,80266.0,8.0,5302.0,0,Month-to-month,Net Banking,21,6.8,16,No
+C0421,34,Male,Delhi,18000.0,2.3,6360.0,3,Two year,Net Banking,27,6.1,19,No
+C0297,26,Other,Delhi,31011.0,1.4,500.0,3,Month-to-month,UPI,1,7.6,20,No
+C0019,20,Female,bangalore,71854.0,6.8,5023.0,4,Month-to-month,Net Banking,24,7.0,15,No
+C0213,32,Male,Mumbai,56541.0,5.9,7330.0,2,Month-to-month,UPI,1,5.4,23,No
+C0329,37,Male,BANGALORE,61351.0,5.4,7041.0,2,Two year,UPI,36,10.0,24,No
+C0145,30,Female,Bangalore,90538.0,4.7,500.0,0,Month-to-month,Credit Card,1,8.5,12,No
+C0311,44,Male,Bangalore,,4.5,3236.0,3,Month-to-month,Credit Card,34,6.8,17,Yes
+C0281,43,Female,Pune,44373.0,3.6,500.0,3,Two year,UPI,1,8.9,18,No
+C0552,38,Male,Pune,68227.0,1.1,3535.0,3,One year,Credit Card,21,9.3,18,No
+C0371,30,Male,Chennai,70333.0,5.7,758.0,2,Month-to-month,Debit Card,33,8.4,10,No
+C0260,38,Female,CHENNAI,84490.0,6.5,4549.0,2,Month-to-month,Net Banking,43,5.1,15,No
+C0302,58,Female,Hyderabad,60131.0,6.4,3436.0,0,Month-to-month,Debit Card,39,6.6,13,No
+C0229,29,Male,Pune,90470.0,6.1,5913.0,1,One year,Net Banking,30,7.4,21,No
+C0413,37,Male,Coimbatore,60921.0,5.8,1883.0,3,One year,UPI,25,5.3,8,No
+C0168,38,Male,Chennai,40090.0,6.1,5019.0,3,One year,UPI,50,7.1,18,No
+C0055,34,Male,Mumbai,64434.0,7.4,3016.0,2,Two year,UPI,22,6.7,23,No
+C0578,19,Male,Coimbatore,69045.0,4.0,3297.0,2,Month-to-month,Debit Card,23,10.0,26,No
+C0047,42,Female,BANGALORE,19467.0,4.7,3533.0,0,Month-to-month,Credit Card,25,6.8,17,No
+C0094,32,Female,Hyderabad,40301.0,2.2,3958.0,4,Two year,Net Banking,49,6.5,24,No
+C0546,39,Male,Bangalore,48046.0,1.5,5046.0,1,Month-to-month,Debit Card,47,8.2,16,No
+C0109,42,Female,Chennai,100376.0,3.9,3567.0,0,Month-to-month,UPI,49,5.2,15,No
+C0279,38,Male,Delhi,20214.0,5.7,4726.0,3,One year,Credit Card,36,6.6,23,No
+C0586,43,Female,chennai,43709.0,0.8,6595.0,0,Month-to-month,UPI,13,6.5,16,No
+C0494,28,Female,Chennai,26206.0,2.7,4955.0,2,Two year,Credit Card,14,7.7,20,No
+C0450,46,Female,Chennai,,3.7,6355.0,3,Month-to-month,UPI,8,7.9,18,No
+C0470,28,Male,Coimbatore,38612.0,3.4,5447.0,1,One year,Cash,8,7.6,19,No
+C0524,18,Male,Pune,48318.0,0.3,3556.0,1,Month-to-month,Net Banking,21,7.6,15,No
+C0299,25,Male,Mumbai,52831.0,2.5,3683.0,3,One year,,24,4.6,13,No
+C0528,38,Female,Chennai,74237.0,3.0,6573.0,3,Month-to-month,UPI,26,7.3,16,Yes
+C0272,32,Female,Pune,53665.0,1.5,5025.0,3,Month-to-month,Credit Card,8,6.1,16,Yes
+C0350,30,Female,Mumbai,37271.0,2.3,1265.0,2,Month-to-month,Net Banking,33,6.3,26,Yes
+C0486,29,Female,Coimbatore,50736.0,4.4,4758.0,4,Month-to-month,UPI,1,9.9,12,No
+C0070,39,Female,Coimbatore,38984.0,5.5,5326.0,2,Month-to-month,Debit Card,31,8.1,17,No
+C0577,32,Female,Chennai,,6.8,1560.0,3,Month-to-month,Credit Card,46,10.0,18,No
+C0416,52,Female,Bangalore,46869.0,7.0,6069.0,0,Two year,Credit Card,35,7.6,17,No
+C0285,49,Male,Hyderabad,49092.0,4.5,500.0,2,Month-to-month,UPI,45,7.2,22,No
+C0539,32,Female,Bangalore,86300.0,5.0,5052.0,1,Month-to-month,Net Banking,1,7.3,21,No
+C0209,34,Male,Chennai,75907.0,2.6,5848.0,3,Month-to-month,,35,5.6,21,Yes
+C0262,44,Male,Coimbatore,57531.0,2.9,5071.0,0,Month-to-month,Debit Card,17,6.8,15,No
+C0150,46,Female,Chennai,45504.0,3.0,3832.0,3,Month-to-month,Credit Card,27,6.2,28,No
+C0125,21,Male,Chennai,62447.0,2.7,7733.0,2,Month-to-month,Net Banking,28,6.0,22,No
+C0454,41,Male,Coimbatore,73973.0,3.5,2789.0,1,Month-to-month,Net Banking,26,8.9,24,No
+C0480,18,Male,Hyderabad,75627.0,5.5,3753.0,4,Month-to-month,Credit Card,28,3.5,18,Yes
+C0186,22,Female,Mumbai,53008.0,7.5,3567.0,3,Two year,Net Banking,49,6.5,20,Yes
+C0375,30,Female,Chennai,52639.0,4.9,5840.0,2,Month-to-month,Credit Card,21,5.0,15,No
+C0361,43,Female,Bangalore,67018.0,2.5,2716.0,5,One year,Debit Card,20,7.1,21,No
+C0589,44,Female,Chennai,18000.0,7.2,5807.0,2,One year,Debit Card,21,5.5,14,No
+C0547,47,Male,Chennai,68547.0,4.1,2926.0,3,Month-to-month,UPI,43,7.1,17,No
+C0396,29,Male,Coimbatore,34774.0,5.4,4339.0,1,One year,UPI,39,7.1,12,Yes
+C0032,21,Female,Chennai,38561.0,3.9,5034.0,3,One year,Net Banking,24,7.3,13,No
+C0458,36,Female,Hyderabad,66356.0,0.7,4568.0,3,Month-to-month,Net Banking,28,7.0,22,No
+C0438,39,Female,Pune,51672.0,6.0,4507.0,1,Month to month,Credit Card,30,7.6,21,No
+C0579,38,Male,Hyderabad,47770.0,2.8,5956.0,3,One year,Net Banking,22,5.9,20,No
+C0469,35,Male, Chennai ,51413.0,6.2,4605.0,1,Two year,upi,33,,12,No
+C0455,40,Female,Chennai,75969.0,3.7,7323.0,1,Two year,UPI,28,5.5,20,No
+C0115,18,Female,Mumbai,31627.0,4.6,4862.0,1,Month-to-month,UPI,15,4.2,19,No
+C0204,34,Male,Pune,48330.0,3.4,2393.0,2,Month-to-month,UPI,6,6.5,15,No
+C0142,29,Female,Chennai,46930.0,6.1,5034.0,5,Two year,UPI,35,9.1,16,No
+C0443,32,Female, Bangalore ,69430.0,4.8,3144.0,4,One year,UPI,18,6.4,21,No
+C0008,34,Female,Pune,43281.0,2.3,500.0,2,Two year,Credit Card,25,6.7,10,No
+C0532,24,Female,Coimbatore,51978.0,4.9,4132.0,5,One year,UPI,19,8.4,13,No
+C0020,46,Male,Bangalore,81993.0,0.4,6820.0,0,Month-to-month,UPI,1,7.7,17,No
+C0173,25,Female,Hyderabad,68964.0,7.2,3882.0,2,Month-to-month,Credit Card,9,5.3,12,No
+C0466,36,Female,Bangalore,78543.0,4.0,4779.0,1,Month-to-month,Net Banking,11,6.8,26,No
+C0057,36,Other,Chennai,58882.0,3.9,2235.0,4,Month-to-month,UPI,24,6.9,19,No
+C0432,51,Male,Delhi,61282.0,6.6,3015.0,1,One year,UPI,10,8.4,14,No
+C0345,34,Female,Bangalore,83827.0,6.0,4783.0,2,Month-to-month,UPI,32,5.9,18,No
+C0465,30,Female,Coimbatore,62732.0,0.6,1474.0,2,Month-to-month,Cash,34,9.4,18,Yes
+C0445,45,Male,Pune,54588.0,2.3,5486.0,1,Month-to-month,,29,4.6,15,Yes
+C0319,40,Female,Chennai,76328.0,0.7,4377.0,3,Month-to-month,UPI,25,6.9,16,No
+C0050,39,Male,Chennai,37174.0,5.2,5824.0,1,Month-to-month,Credit Card,5,7.9,22,No
+C0273,34,Female,Pune,39415.0,6.3,500.0,3,One year,Net Banking,38,9.7,15,No
+C0026,44,Male,Delhi,63082.0,2.6,2650.0,1,Month-to-month,UPI,48,7.9,12,No
+C0457,31,Female,Chennai,70952.0,7.5,3200.0,3,Month-to-month,Credit Card,13,9.0,13,No
+C0221,21,Male,Mumbai,18000.0,2.7,3698.0,2,Month-to-month,Cash,14,5.4,18,No
+C0357,32,Female,CHENNAI,37189.0,4.9,5878.0,6,Month-to-month,UPI,4,5.3,14,Yes
+C0597,28,Female,Mumbai,29022.0,5.3,5483.0,2,One year,UPI,20,6.2,24,No
+C0246,32,Male,Coimbatore,25960.0,1.0,2225.0,2,One year,Credit Card,18,9.2,20,No
+C0043,25,Male,Chennai,61458.0,1.7,2674.0,2,One year,Credit Card,47,5.6,18,No
+C0429,30,Female,Bangalore,78233.0,7.6,3282.0,2,One year,Credit Card,27,7.8,22,No
+C0412,31,Female,Coimbatore,46384.0,2.1,6586.0,2,Two year,,51,9.9,15,No
+C0410,50,Male,Chennai,,5.0,3352.0,4,Month-to-month,Credit Card,39,7.7,19,No
+C0290,34,Male,Mumbai,33282.0,6.9,4889.0,1,One year,Credit Card,1,9.1,19,No
+C0553,42,Female,Hyderabad,23235.0,4.9,500.0,0,Month-to-month,Debit Card,1,9.5,24,No
+C0488,42,Male,Bangalore,18000.0,3.0,6394.0,3,Month-to-month,Credit Card,14,5.9,19,No
+C0424,36,Female,Hyderabad,40617.0,3.8,6277.0,0,monthly,Credit Card,44,6.9,30,No
+C0155,18,Male,Coimbatore,29061.0,1.0,4067.0,1,TWO YEAR,Debit Card,33,8.5,22,No
+C0127,37,Female,Pune,58706.0,5.9,6021.0,1,Month-to-month,Debit Card,58,6.8,16,No
+C0353,36,Male,Mumbai,27844.0,2.3,5040.0,1,Month-to-month,Credit Card,45,6.4,11,Yes
+C0114,25,Male,Pune,64952.0,1.5,1681.0,1,Month-to-month,Net Banking,18,4.9,17,No
+C0174,33,Male,Chennai,79413.0,3.5,1412.0,3,One year,UPI,27,9.4,13,No
+C0058,34,Female,Chennai,46925.0,7.1,5802.0,3,one year,Debit Card,20,5.0,19,No
+C0330,39,Male,CHENNAI,60727.0,5.1,5974.0,1,Month-to-month,Credit Card,1,6.5,25,No
+C0223,24,Female,Chennai,40610.0,6.6,4112.0,3,One year,Credit Card,12,5.9,11,No
+C0018,18,Male,Hyderabad,61639.0,7.8,4348.0,3,Two year,Debit Card,7,8.4,13,No
+C0306,40,Female,Coimbatore,,6.7,5551.0,1,Two year,UPI,1,8.1,18,No
+C0256,49,Female,Hyderabad,,5.6,3276.0,2,Month-to-month,Net Banking,44,6.7,27,No
+C0313,34,Male,Chennai,42928.0,2.6,2884.0,2,Month-to-month,Credit Card,22,7.0,21,No
+C0586,43,Female,chennai,43709.0,0.8,6595.0,0,Month-to-month,UPI,13,6.5,16,No
+C0191,32,Female,Chennai,66288.0,2.8,5271.0,3,One year,Cash,27,7.4,16,No
+C0463,39,Other,Delhi,81156.0,2.5,4032.0,1,Two year,,66,6.6,18,No
+C0538,-5,Male,Chennai,52046.0,7.7,2362.0,4,Month-to-month,Debit Card,19,7.2,21,No
+C0278,25,Female,Mumbai,66192.0,0.3,2998.0,3,Two year,UPI,27,7.1,11,No
+C0095,37,Male,Delhi,96213.0,3.6,4801.0,3,Month-to-month,UPI,13,7.4,11,No
+C0181,25,Male,Bangalore,79356.0,2.8,5774.0,4,One year,UPI,13,6.4,17,No
+C0448,30,Female,Delhi,75846.0,5.4,3595.0,4,two year,Credit Card,26,6.1,22,No
+C0337,38,Male,Pune,77716.0,3.6,3113.0,1,Two year,Credit Card,6,6.8,16,No
+C0320,43,Male,Chennai,64398.0,6.3,6533.0,2,Month-to-month,UPI,1,9.4,17,No
+C0006,125,Male,Chennai,19917.0,6.5,3868.0,3,One year,Credit Card,41,8.7,15,No
+C0046,22,Male,Mumbai,54216.0,6.3,2787.0,2,One year,Net Banking,21,6.7,13,No
+C0301,25,Male,Chennai,,5.4,4118.0,2,Two year,Net Banking,33,7.3,14,No
+C0400,45,Male,Delhi,98084.0,3.6,3921.0,2,Month-to-month,Debit Card,18,6.2,18,Yes
+C0391,35,Male,Coimbatore,18000.0,3.7,6930.0,1,One year,Net Banking,1,6.1,17,No
+C0017,32,Female,Bangalore,33036.0,5.2,2878.0,3,Month-to-month,UPI,23,9.3,16,No
+C0049,21,Male,Hyderabad,38839.0,6.5,4228.0,2,Month-to-month,UPI,30,8.0,12,No
+C0592,42,Female,Mumbai,72261.0,7.0,5482.0,1,Month-to-month,Debit Card,41,5.4,16,No
+C0502,44,Female,Hyderabad,33582.0,4.1,5740.0,1,Month-to-month,Net Banking,20,5.8,17,No
+C0004,25,Male,Mumbai,51753.0,0.3,2059.0,3,Two year,UPI,52,8.2,18,No
+C0335,33,Male,Chennai,83695.0,2.4,5777.0,3,Two year,Net Banking,28,7.6,11,No
+C0452,34,Male,Hyderabad,,2.1,2923.0,2,Two year,UPI,37,5.6,14,No
+C0600,36,Male,Chennai,70800.0,6.5,4987.0,2,Month-to-month,Credit Card,41,5.9,20,No
+C0447,37,Male,Coimbatore,79730.0,7.2,6286.0,3,Month-to-month,Credit Card,37,7.9,15,No
+C0317,40,Male,Bangalore,82846.0,5.9,3884.0,3,One year,Net Banking,9,6.7,14,No
+C0226,45,Male,Chennai,85220.0,7.2,7267.0,1,Two year,UPI,17,6.2,16,No
+C0027,33,Male,Chennai,75099.0,0.7,6726.0,3,Month-to-month,,69,6.7,19,Yes
+C0437,41,Male,Chennai,50659.0,6.0,3583.0,1,Two year,Net Banking,52,6.7,22,No
+C0264,35,Male,Hyderabad,69769.0,7.8,5426.0,2,One year,,1,7.9,19,No
+C0051,28,Male,Coimbatore,,3.2,2566.0,3,One year,Net Banking,55,5.4,20,No
+C0230,38,Male,,83928.0,3.3,3540.0,1,Month-to-month,Net Banking,8,3.6,18,No
+C0038,47,Male,Chennai,66351.0,4.4,5894.0,1,One year,UPI,18,7.5,32,No
+C0158,33,Male,Delhi,59426.0,0.5,2835.0,0,One year,Credit Card,20,6.0,24,Yes
+C0238,44,Male,Chennai,51131.0,4.8,7127.0,1,Month-to-month,UPI,49,4.2,14,No
+C0587,49,Other, Chennai ,49971.0,3.2,2046.0,2,Month-to-month,Net Banking,29,7.9,23,No
+C0176,44,Male,Chennai,49692.0,3.9,3687.0,6,Month-to-month,Credit Card,19,6.9,27,Yes
+C0514,50,Female,Pune,58352.0,5.6,2023.0,2,One year,Credit Card,7,7.9,13,No
+C0358,30,Male,Mumbai,64329.0,0.8,3774.0,4,Two year,UPI,13,7.3,16,Yes
+C0195,32,Female,Bangalore,34420.0,1.4,4143.0,4,Month-to-month,UPI,2,8.0,13,No
+C0516,21,Female,Chennai,79663.0,1.1,4653.0,3,Two year,UPI,1,7.4,11,No
+C0334,38,Male,Chennai,18000.0,1.0,5920.0,6,Month-to-month,Net Banking,35,5.7,24,Yes
+C0591,32,Female,Chennai,108078.0,0.7,3463.0,4,Month-to-month,Credit Card,20,7.8,15,No
+C0522,18,Other,Bangalore,35923.0,1.5,3098.0,1,Month-to-month,Debit Card,13,7.8,23,No
+C0068,39,Male,Pune,100265.0,2.1,1981.0,1,Month-to-month,UPI,5,9.0,19,No
+C0328,22,Male,Mumbai,49499.0,5.2,4586.0,0,One year,Net Banking,24,5.2,17,No
+C0169,51,Male,Chennai,66306.0,2.4,3270.0,3,Month-to-month,UPI,28,4.5,15,Yes
+C0333,42,Female,Chennai,72457.0,6.1,2599.0,1,Month-to-month,Credit Card,54,6.3,19,No
+C0163,35,Male,Mumbai,74169.0,7.6,5812.0,2,Month-to-month,Net Banking,1,7.1,16,No
+C0310,33,Male,Chennai,50421.0,0.6,6463.0,2,Month-to-month,UPI,39,6.1,15,No
+C0194,34,Male,Mumbai,68538.0,5.3,2532.0,1,Month-to-month,Credit Card,50,6.8,12,Yes
+C0153,27,Male,Chennai,35119.0,1.7,3362.0,3,Two year,UPI,80,7.4,14,Yes
+C0336,19,Male, Chennai ,18425.0,2.4,6851.0,1,Month-to-month,Credit Card,33,4.5,18,No
+C0347,42,Male,Mumbai,42632.0,3.5,4353.0,4,Month-to-month,Upi,34,6.9,18,Yes
+C0500,47,Male,Coimbatore,44184.0,3.3,5244.0,2,Month-to-month,UPI,36,5.0,9,No
+C0342,43,Female,Hyderabad,50272.0,7.8,3360.0,3,Month-to-month,Credit Card,14,7.4,16,No
+C0104,30,Female,Hyderabad,77659.0,7.7,6043.0,2,Month-to-month,credit card,28,9.1,19,No
+C0403,27,Male,Hyderabad,44763.0,7.3,3456.0,2,Month-to-month,,24,8.0,22,No
+C0075,36,Female,Delhi,44380.0,4.5,2385.0,2,One year,Debit Card,34,8.6,18,Yes
+C0435,39,Male,Chennai,67223.0,1.8,4306.0,1,One year,UPI,1,6.2,14,No
+C0590,34,Male,Chennai,50797.0,1.8,7493.0,1,Month to month,UPI,1,7.4,21,No
+C0120,32,Female,,111970.0,3.0,4422.0,1,Month-to-month,UPI,1,8.2,17,No
+C0399,28,Female,Delhi,-12000.0,0.3,4802.0,1,Month-to-month,Credit Card,64,5.9,17,No
+C0422,50,Male,Delhi,82762.0,2.1,3366.0,4,Two year,UPI,19,5.8,15,No
+C0496,36,Female,BANGALORE,59045.0,4.1,6503.0,0,Month-to-month,Credit Card,41,5.7,25,No
+C0208,29,Male,Mumbai,31508.0,2.0,2700.0,1,Month-to-month,NET BANKING,16,8.7,12,No
+C0491,51,Female,Bangalore,56319.0,2.6,928.0,3,Month-to-month,UPI,10,8.1,16,No
+C0363,36,Male,Bangalore,45400.0,4.9,3248.0,2,One year,Net Banking,18,6.0,12,No
+C0351,30,Other,Hyderabad,76227.0,1.8,6371.0,2,Month-to-month,Net Banking,40,4.4,10,Yes
+C0417,32,Female,Bangalore,63296.0,6.0,1465.0,4,Month-to-month,Credit Card,25,8.4,27,No
+C0009,28,Male,Mumbai,29262.0,0.3,5815.0,2,Two year,Debit Card,22,10.0,22,No
+C0389,24,Female,Delhi,51301.0,4.7,2166.0,1,Month-to-month,UPI,33,6.6,25,No
+C0037,34,Female,Bangalore,56474.0,7.9,4543.0,3,Month-to-month,Debit Card,7,7.4,27,No
+C0140,37,Female,Coimbatore,67028.0,3.1,5737.0,1,Two year,Credit Card,62,7.0,18,Yes
+C0254,50,Male,BANGALORE,71721.0,3.8,4597.0,5,Month-to-month,UPI,43,9.0,18,No
+C0304,36,Female,Mumbai,61317.0,5.1,4793.0,5,Two year,Net Banking,45,6.0,18,No
+C0550,28,Female,Delhi,45096.0,5.1,2586.0,60,Two year,UPI,41,6.3,16,No
+C0060,26,Female,Bangalore,56895.0,0.7,5196.0,2,Month-to-month,Credit Card,13,8.9,24,No
+C0112,30,Male,Chennai,86069.0,5.2,6958.0,3,Month-to-month,UPI,5,,19,No
+C0364,42,Female,Hyderabad,52589.0,5.1,2298.0,3,Month-to-month,UPI,1,7.5,21,No
+C0420,27,Female,Delhi,53869.0,1.9,5193.0,3,One year,Net Banking,67,3.1,15,Yes
+C0365,35,Female,Coimbatore,53056.0,5.3,6402.0,2,Month-to-month,UPI,45,6.0,23,Yes
+C0263,35,Female,Chennai,51477.0,2.8,2216.0,3,One year,Credit Card,21,,21,No
+C0507,40,Female,Coimbatore,63633.0,6.9,1872.0,4,One year,UPI,58,8.5,22,No
+C0298,22,Female,Chennai,86041.0,2.6,7304.0,4,Month-to-month,UPI,38,3.2,19,Yes
+C0151,38,Male,Coimbatore,63882.0,5.3,7360.0,2,Month-to-month,Debit Card,19,5.8,22,Yes
+C0267,37,Female,Mumbai,47981.0,5.9,2691.0,1,monthly,UPI ,33,9.5,19,No
+C0529,25,Female,Chennai,60776.0,1.0,4331.0,4,Two year,,17,3.9,18,No
+C0541,25,Male,Coimbatore,76239.0,3.4,5724.0,3,MONTH-TO-MONTH,UPI,23,8.2,17,Yes
+C0039,35,Female,Mumbai,20624.0,7.7,2341.0,1,Month-to-month,UPI,6,8.6,22,No
+C0444,35,Female,Bangalore,59284.0,4.4,4604.0,2,Two year,UPI,1,5.8,20,No
+C0308,35,Male,Bangalore,57388.0,0.3,2166.0,1,Month-to-month,UPI,24,8.9,19,No
+C0199,32,Female,Pune,63080.0,3.5,3553.0,2,One year,Net Banking,1,5.1,22,No
+C0479,21,Male,Coimbatore,69503.0,6.6,4621.0,0,One year,UPI,10,7.7,18,No
+C0366,44,Male,Bangalore,46860.0,2.3,3734.0,2,Month-to-month,Credit Card,9,7.5,20,Yes
+C0147,41,Male,Mumbai,81777.0,6.3,4634.0,0,Month-to-month,Credit Card,1,4.3,13,No
+C0574,35,Male,Mumbai,79760.0,4.4,5597.0,1,Two year,Credit Card,2,5.0,19,No
+C0543,50,Male,Chennai,56950.0,4.4,4022.0,0,Month-to-month,UPI,32,8.7,27,No
+C0148,26,Male,Hyderabad,88469.0,2.2,2128.0,2,Month-to-month,Net Banking,1,7.2,17,No
+C0433,39,Female,Mumbai,66465.0,7.5,5016.0,2,Month-to-month,Cash,1,7.2,15,No
+C0349,35,Male,Bangalore,18000.0,3.3,3864.0,1,Month-to-month,UPI,6,9.4,16,No
+C0326,40,Male,Delhi,40246.0,3.1,4654.0,0,One year,Credit Card,13,9.1,21,No
+C0404,38,Female,Pune,-5000.0,3.6,7598.0,2,Month-to-month,Credit Card,52,5.8,19,Yes
+C0124,41,Male,Chennai,47230.0,1.9,6867.0,1,Two year,UPI,23,3.7,20,No
+C0515,34,Female,Chennai,36907.0,2.0,4900.0,3,One year,Debit Card,26,10.0,16,No
+C0097,35,Other,Hyderabad,45159.0,0.8,6147.0,0,Two year,UPI,30,5.8,17,No
+C0144,25,Female,Bangalore,34707.0,7.6,5205.0,3,One year,Debit Card,59,5.1,17,No
+C0240,40,Female,Chennai,67133.0,0.5,3914.0,1,Two year,UPI,1,6.7,17,No
+C0474,37,Male,Pune,48225.0,1.5,7137.0,1,Two year,UPI,9,7.1,28,No
+C0098,33,Male,Bangalore,83182.0,5.1,1838.0,3,Month-to-month,Credit Card,6,7.0,18,No
+C0372,47,Male,CHENNAI,47656.0,5.0,4076.0,3,Month-to-month,Debit Card,8,7.2,16,No
+C0325,33,Male,Coimbatore,77013.0,0.6,4365.0,0,One year,UPI,30,7.5,20,Yes
+C0280,19,Female,Delhi,74691.0,7.8,3863.0,4,One year,,25,8.4,23,No
+C0294,27,Male,Bangalore,40700.0,3.3,4588.0,4,Month-to-month,Net Banking,1,8.2,14,No
+C0595,47,Female,Pune,55494.0,7.8,1437.0,3,One year,Cash,10,6.3,11,No
+C0123,36,Male,Bangalore,59276.0,5.1,2294.0,4,Month-to-month,Debit Card,35,6.8,21,No
+C0184,35,Female,Pune,73643.0,0.8,2324.0,6,Month-to-month,UPI,25,9.5,18,Yes
+C0203,34,Female,Chennai,54573.0,0.2,4830.0,3,Month-to-month,UPI,77,6.1,6,Yes
+C0324,32,Male,Chennai,75221.0,2.8,4084.0,1,One year,UPI,46,6.9,20,No
+C0247,29,Male,Bangalore,41541.0,4.2,3140.0,3,Month-to-month,Credit Card,20,7.4,21,No
+C0498,37,Female,Chennai,82257.0,7.0,5250.0,0,Month-to-month,UPI,23,6.6,15,No
+C0523,30,Male,Coimbatore,40521.0,0.9,5084.0,0,One year,UPI,44,10.0,14,No
+C0536,34,Male,Coimbatore,42179.0,2.0,4997.0,4,Month-to-month,UPI,40,7.0,18,Yes
+C0423,29,Male,Chennai,35074.0,0.7,3459.0,3,One year,UPI,9,5.3,16,Yes
+C0540,28,Male,Chennai,75377.0,4.5,3718.0,2,Month-to-month,UPI,59,6.8,28,Yes
+C0401,47,Male,Chennai,27950.0,0.9,766.0,0,Two year,Debit Card,26,,16,No
+C0126,44,Male,Bangalore,48501.0,6.8,4207.0,3,Month-to-month,UPI,1,6.6,15,No
+C0439,44,Female,Delhi,50712.0,4.3,-1200.0,2,Month-to-month,Debit Card,46,8.3,23,No
+C0426,45,Female,Hyderabad,85238.0,4.9,3501.0,2,Month-to-month,Net Banking,15,8.3,17,No
+C0224,50,Other,Bangalore,18000.0,1.6,1671.0,1,Month-to-month,Credit Card,11,6.5,18,No
+C0343,34,Male,Chennai,48223.0,1.1,5353.0,3,One year,UPI,10,9.3,11,No
+C0054,26,Male,Pune,56357.0,2.9,6055.0,2,One year,Net Banking,11,5.5,14,No
+C0220,31,Male,Pune,77023.0,2.6,730.0,3,Month-to-month,Credit Card,1,8.1,10,No
+C0130,54,Male,Hyderabad,80077.0,0.4,3326.0,3,Month-to-month,Credit Card,9,9.1,21,No
+C0554,40,Male,Hyderabad,18000.0,1.1,3525.0,0,One year,Net Banking,15,9.6,26,No
+C0406,40,Female,Pune,21935.0,3.6,1796.0,0,Month-to-month,Debit Card,9,7.5,15,No
+C0497,32,Other,Mumbai,94611.0,7.5,6075.0,2,Two year,Credit Card,15,4.6,15,No
+C0556,29,Male,Bangalore,28144.0,1.3,1264.0,5,One year,UPI,18,9.0,11,No
+C0408,20,Male,Chennai,65289.0,0.3,1415.0,4,ONE YEAR,UPI,42,,27,No
+C0525,20,Female,Pune,25391.0,1.5,3949.0,2,One year,Credit Card,21,9.7,18,No
+C0415,40,Male,Mumbai,68675.0,1.8,3150.0,2,Two year,UPI,72,7.0,16,Yes
+C0387,34,Other,Bangalore,37669.0,3.4,3979.0,0,Month-to-month,Credit Card,1,4.8,14,No
+C0593,40,Male,Chennai,54576.0,3.2,8307.0,1,Month-to-month,Net Banking,13,8.6,15,No
+C0295,28,Female,Chennai,58710.0,1.2,5115.0,1,Month-to-month,Net Banking,46,6.4,16,Yes
+C0268,19,Male,Delhi,37487.0,4.6,2604.0,0,one year,Net Banking,22,8.5,21,No
+C0581,30,Male,Bangalore,43029.0,3.7,5961.0,1,Month-to-month,Debit Card,33,8.3,19,No
+C0560,28,Male,Mumbai,86954.0,7.2,4764.0,5,One year,UPI,58,9.7,20,Yes
+C0113,18,Female,Coimbatore,53248.0,5.4,5100.0,1,Two year,Credit Card,34,10.0,15,No
+C0180,30,Female,CHENNAI,33560.0,1.7,5063.0,6,Two year,UPI,46,7.4,24,Yes
+C0434,31,Female,Chennai,69195.0,4.4,2432.0,2,Month-to-month,UPI,8,5.9,18,No
+C0512,47,Female,Bangalore,45996.0,5.5,3690.0,1,One year,UPI,32,3.6,25,Yes
+C0464,36,Female,Mumbai,70583.0,4.1,3247.0,2,Month-to-month,Net Banking,9,7.2,15,No
+C0374,29,Female,Mumbai,63132.0,2.3,7777.0,3,One year,UPI,27,10.0,9,No
+C0315,28,Female,Pune,58517.0,5.0,5434.0,4,Month-to-month,Debit Card,16,8.2,21,No
+C0152,51,Female,Chennai,54468.0,2.1,7031.0,5,Two year,Net Banking,22,8.4,23,Yes
+C0506,38,Female,Chennai,115713.0,6.7,4851.0,6,Month-to-month,Net Banking,29,6.9,21,Yes
+C0234,31,Male,Hyderabad,19757.0,4.4,3707.0,0,One year,UPI,31,5.8,18,No
+C0307,29,Female,Hyderabad,29838.0,7.3,3451.0,2,Two year,Credit Card,26,7.2,25,No
+C0440,45,Male,Chennai,79943.0,0.7,3828.0,4,Month-to-month,Net Banking,26,7.1,13,Yes
+C0165,38,Female,Chennai,57780.0,3.6,4656.0,1,Month-to-month,Net Banking,73,6.5,14,Yes
+C0318,29,Female,Chennai,35944.0,3.4,5404.0,3,One year,Credit Card,62,9.2,18,No
+C0137,35,Male,Hyderabad,33015.0,7.9,3597.0,3,Month-to-month,Credit Card,2,10.0,12,No
+C0411,28,Male,Bangalore,61777.0,5.2,4031.0,5,Month-to-month,Debit Card,30,6.4,15,No
+C0198,44,Male,Pune,72777.0,2.4,985.0,3,Month-to-month,Credit Card,2,7.0,25,No
+C0520,28,Male,Chennai,58414.0,5.9,7180.0,2,Month-to-month,Debit Card,1,9.7,19,No
+C0259,29,Male,Hyderabad,62022.0,2.3,6324.0,3,Month-to-month,UPI,21,7.9,21,No
+C0233,32,Male,Hyderabad,56660.0,0.8,7013.0,1,One year,Net Banking,1,8.8,18,No
+C0116,31,Male,Pune,64423.0,6.2,500.0,3,Month-to-month,UPI,39,5.0,19,Yes
+C0121,41,Male,Pune,67752.0,7.4,7717.0,1,One year,Credit Card,26,9.3,16,No
+C0489,40,Female,Coimbatore,68979.0,6.7,688.0,3,Two year,Debit Card,58,7.4,23,No
+C0377,22,Male,Pune,20441.0,7.6,6475.0,2,Month-to-month,Cash,28,3.6,13,Yes
+C0385,43,Male,Delhi,18000.0,5.7,1221.0,0,One year,Debit Card,1,6.3,20,No
+C0225,42,Male,Chennai,66246.0,3.1,4106.0,1,Month-to-month,Credit Card,12,8.0,17,No
+C0580,40,Male,Chennai,68270.0,6.4,5128.0,1,Two year,Debit Card,58,8.0,14,No
+C0471,45,Female,Chennai,40146.0,5.3,1915.0,4,Month-to-month,Credit Card,20,4.3,21,No
+C0348,29,Other,Chennai,50397.0,2.9,500.0,2,Month-to-month,UPI,30,5.4,18,No
+C0128,30,Female,Pune,83987.0,0.9,6615.0,5,Month-to-month,UPI,21,6.9,15,No
+C0576,25,Female,Coimbatore,91139.0,6.6,2846.0,4,Month-to-month,UPI,49,6.4,20,Yes
+C0446,27,Male,Coimbatore,46453.0,3.1,510.0,2,Two year,Net Banking,23,6.2,23,No
+C0286,43,Male,Chennai,35394.0,7.7,3300.0,2,One year,UPI,31,6.0,22,No
+C0564,30,Female,Chennai,29946.0,0.3,2950.0,2,Month-to-month,UPI,26,,25,No
+C0044,32,Male,Coimbatore,25155.0,1.3,3026.0,1,Month-to-month,Debit Card,15,8.2,11,No
+C0108,53,Female,Delhi,64319.0,1.5,4243.0,0,One year,Debit Card,2,5.6,14,No
+C0517,35,Male,Bangalore,55005.0,1.5,3850.0,1,One year,Credit Card,27,8.4,17,No
+C0133,30,Male,Chennai,18000.0,1.1,5213.0,2,Month-to-month,Net Banking,32,7.7,18,No
+C0134,26,Male,Bangalore,41628.0,2.5,2616.0,2,One year,UPI,18,7.3,15,No
+C0441,46,Male,Chennai,68058.0,3.1,5298.0,0,Month-to-month,Credit Card,22,7.2,13,No
+C0510,40,Male,Delhi,18000.0,5.0,834.0,2,Month-to-month,Credit Card,8,7.7,23,No
+C0045,26,Male,Chennai,65261.0,5.1,2239.0,5,Two year,Credit Card,1,9.4,24,No
+C0170,46,Female,Mumbai,58951.0,3.0,3846.0,4,Month-to-month,UPI,9,7.7,26,No
+C0066,41,Female,HYDERABAD,32786.0,7.7,1739.0,2,Month-to-month,Credit Card,58,7.2,18,Yes
+C0284,43,Male,Chennai,74730.0,6.6,5024.0,2,Month-to-month,UPI,27,7.1,18,Yes
+C0086,29,Female,Bangalore,125248.0,2.1,4769.0,3,Month-to-month,Net Banking,23,7.4,21,Yes
+C0243,37,Female,Coimbatore,41302.0,2.5,6858.0,1,One year,UPI,11,6.9,15,No
+C0187,31,Male,Pune,62304.0,4.2,2814.0,1,One year,Credit Card,20,6.3,18,No
+C0327,36,Male,Hyderabad,85634.0,7.6,3991.0,1,Month-to-month,Cash,42,7.0,18,No
+C0160,24,Male,Delhi,49304.0,1.6,5321.0,1,Two year,Credit Card,57,8.0,16,No
+C0013,150,Male,Pune,91548.0,2.9,3837.0,4,One year,Credit Card,42,9.3,15,No
+C0036,42,Female,Pune,48811.0,6.3,6129.0,5,Month-to-month,Net Banking,15,7.3,19,No
+C0029,20,Male,Mumbai,87839.0,2.1,3403.0,1,One year,Credit Card,12,7.1,14,No
+C0171,48,Male,Mumbai,62714.0,7.2,3829.0,5,Month-to-month,Cash,1,7.7,19,No
+C0143,32,Female,,46381.0,7.4,4278.0,1,Month-to-month,Credit Card,22,7.2,16,No
+C0237,31,Male,Bangalore,102761.0,6.3,7627.0,3,One year,Credit Card,1,8.2,22,No
+C0478,51,Male,Hyderabad,37024.0,7.1,5195.0,3,One year,Net Banking,27,8.8,20,No
+C0582,48,Male,Coimbatore,51419.0,1.6,5140.0,3,One year,UPI,18,6.3,20,Yes
+C0222,27,Female,Hyderabad,69913.0,5.8,5721.0,1,Month-to-month,UPI,13,8.4,23,No
+C0555,43,Female,Pune,42888.0,2.8,2331.0,1,Two year,Credit Card,19,6.8,18,No
+C0096,29,Female,Hyderabad,78761.0,4.8,6776.0,2,Month-to-month,UPI,26,7.1,18,No
+C0052,30,Female,Delhi,,5.5,6935.0,0,Month-to-month,UPI,33,8.2,17,No
+C0241,39,Male,Coimbatore,55959.0,2.3,4732.0,2,Month-to-month,UPI,1,8.3,20,No
+C0519,42,Male,Coimbatore,47786.0,5.8,6088.0,1,Month-to-month,Credit Card,1,7.6,15,No
+C0352,31,Male,Pune,90543.0,4.0,5599.0,2,One year,Credit Card,27,9.2,24,No
+C0527,41,Female,Bangalore,44523.0,2.1,763.0,1,Month-to-month,Debit Card,8,7.2,15,No
+C0179,33,Female,Coimbatore,52082.0,4.8,4089.0,1,Month-to-month,Cash,4,9.2,26,No
+C0461,33,Female,Chennai,72609.0,3.7,4771.0,1,One year,Credit Card,8,6.8,18,No
+C0537,36,Female,Pune,18000.0,1.9,5913.0,1,Two year,Credit Card,41,9.0,18,No
+C0042,39,Female,Hyderabad,27406.0,2.0,3808.0,2,Month-to-month,Debit Card,1,6.3,19,Yes
+C0566,38,Female,Mumbai,53333.0,0.7,1047.0,5,Month-to-month,Net Banking,12,5.2,22,Yes
+C0533,48,Female,,63590.0,2.1,1084.0,1,One year,UPI,21,8.5,21,Yes
+C0207,29,Male,chennai,31819.0,7.8,4055.0,1,Month-to-month,Net Banking,28,6.8,17,No
+C0393,37,Male,Bangalore,31400.0,3.3,4330.0,3,Month-to-month,Debit Card,40,7.8,16,No
+C0283,36,Male,Bangalore,90469.0,5.7,3108.0,3,Two year,Net Banking,36,,15,No
+C0359,47,Male,Coimbatore,44576.0,0.8,6244.0,2,One year,Credit Card,7,8.6,16,No
+C0398,29,Male,Bangalore,48708.0,1.0,1965.0,1,Two year,credit card,46,9.9,26,No
+C0255,18,Female,Chennai,56814.0,7.4,6392.0,1,Month-to-month,UPI,25,7.1,18,No
+C0218,0,Male,Delhi,66024.0,6.8,4864.0,5,Month-to-month,,46,5.3,18,No
+C0005,29,Female,Chennai,44747.0,6.2,3076.0,2,Month-to-month,UPI,50,4.7,16,No
+C0257,36,Male,Coimbatore,48197.0,5.9,2908.0,3,One year,Credit Card,23,9.0,15,No
+C0575,40,Female,Pune,28833.0,6.7,2396.0,3,Two year,Debit Card,19,7.2,13,No
+C0544,40,Female,Mumbai,59341.0,5.6,3115.0,4,Month-to-month,UPI,45,5.5,16,No
+C0431,40,Male,Chennai,53792.0,6.5,500.0,2,Month-to-month,UPI,55,8.6,16,Yes
+C0101,37,Female,Chennai,65664.0,6.4,4896.0,1,Two year,UPI ,1,7.2,19,No
+C0227,40,Female,Coimbatore,51976.0,6.5,6444.0,2,Month-to-month,Debit Card,13,7.3,18,No
+C0449,34,Male,Bangalore,37997.0,6.3,4966.0,3,Month-to-month,Credit Card,21,6.8,16,No
+C0558,36,Male,Chennai,51749.0,1.8,4397.0,1,Month-to-month,Net Banking,4,5.8,25,Yes
+C0584,21,Male,Bangalore,32952.0,7.1,3605.0,4,One year,UPI,31,7.2,21,No
+C0214,48,Male,Chennai,80561.0,7.7,3622.0,0,One year,Net Banking,15,8.7,20,No
+C0360,36,Other,Hyderabad,54682.0,7.6,2209.0,1,One year,Net Banking,14,7.8,13,No
+C0172,29,Female,,65762.0,7.6,2856.0,3,Month-to-month,Net Banking,36,6.2,16,No
+C0099,45,Other,Chennai,56493.0,7.9,5320.0,1,Month-to-month,UPI,24,7.0,19,No
+C0293,36,Female,Pune,50053.0,4.5,5583.0,2,Month-to-month,UPI,46,5.8,17,Yes
+C0216,44,Male,Chennai,60244.0,5.4,5665.0,1,Two year,UPI,13,7.4,19,No
+C0062,41,Female,Chennai,18000.0,0.3,2589.0,4,Month-to-month,Debit Card,1,8.7,17,No
+C0407,36,Female,,60582.0,5.8,5075.0,2,Month-to-month,UPI,49,7.6,18,Yes
+C0503,37,Female,Bangalore,,1.7,7169.0,1,Month-to-month,Cash,25,5.8,16,No
+C0048,51,Female,Hyderabad,80624.0,1.3,1670.0,2,TWO YEAR,UPI,1,9.4,12,No
+C0033,28,Male,Chennai,18000.0,0.7,4555.0,0,Month-to-month,Credit Card,27,8.6,22,No
+C0201,57,Female,Mumbai,50084.0,1.2,4531.0,2,Month-to-month,Cash,37,8.4,15,Yes
+C0135,41,Male,Coimbatore,83534.0,3.3,7777.0,2,Month-to-month,Debit Card,25,8.6,11,No
+C0028,25,Female,Hyderabad,37330.0,2.0,5456.0,3,Month-to-month,Credit Card,25,8.3,15,No
+C0535,32,Female,Delhi,60838.0,3.3,4274.0,2,Month-to-month,Debit Card,53,8.4,19,No
+C0231,23,Male,Delhi,91079.0,4.8,1133.0,1,Month-to-month,Net Banking,47,4.5,16,Yes
+C0490,33,Male,Pune,27736.0,6.4,4458.0,1,Month-to-month,UPI,25,6.2,11,No
+C0379,25,Male,Pune,28734.0,1.4,5178.0,2,Month-to-month,UPI,69,7.7,18,Yes
+C0289,28,Female,bangalore,50355.0,5.8,3507.0,1,Month-to-month,Credit Card,26,9.5,24,No
+C0419,22,Female,Mumbai,79773.0,2.1,3388.0,4,One year,Debit Card,17,8.5,18,No
+C0392,38,Female,Bangalore,71454.0,7.7,5284.0,4,One year,UPI,25,6.6,17,No
+C0499,23,Male,,59613.0,1.0,3967.0,3,One year,Net Banking,24,4.8,19,Yes
+C0139,38,Female,Bangalore,73494.0,6.1,6997.0,3,Month-to-month,Debit Card,32,6.4,18,No
+C0063,39,Male,Pune,64604.0,5.1,5275.0,4,Month-to-month,UPI,42,6.0,16,No
+C0472,20,Male,Coimbatore,51821.0,2.2,7265.0,3,One year,UPI,5,7.9,12,No
+C0129,40,Female,CHENNAI,32856.0,3.5,2864.0,3,One year,Credit Card,37,8.9,25,No
+C0596,46,Male,hyderabad,67037.0,0.7,816.0,0,Month-to-month,Net Banking,30,6.8,12,No
+C0521,30,Female,Mumbai,73152.0,4.2,3330.0,4,Month-to-month,Credit Card,52,4.0,18,Yes
+C0065,35,Male,Bangalore,-25000.0,1.2,75000.0,2,Two year,Credit Card,10,7.1,27,No
+C0015,29,Female,Chennai,41751.0,0.2,5278.0,0,One year,UPI,49,5.7,23,No
+C0157,40,Male,mumbai,44778.0,1.9,4551.0,0,Month-to-month,Net Banking,29,7.7,15,No
+C0041,48,Female,Chennai,72474.0,3.1,7457.0,5,Month-to-month,,14,6.3,15,Yes
+C0493,20,Female,Chennai,84934.0,7.6,4030.0,0,Two year,Net Banking,44,8.4,26,No
+C0380,27,Male,Bangalore,58145.0,7.6,4560.0,1,Month-to-month,Net Banking,19,7.1,21,No
+C0188,49,Male,Hyderabad,59191.0,3.4,1867.0,4,Month-to-month,Cash,22,3.3,17,Yes
+C0217,45,Other,Bangalore,76454.0,6.0,5068.0,2,Month-to-month,Credit Card,46,6.6,26,No
+C0053,29,Male,Coimbatore,32652.0,2.2,5119.0,0,One year,Net Banking,17,5.8,7,No
+C0338,36,Male,Delhi,79788.0,7.8,3787.0,4,Two year,Net Banking,53,,20,No
+C0296,21,Male,Hyderabad,64723.0,6.9,11267.0,1,Month-to-month,Net Banking,64,5.7,18,No
+C0252,39,Female,Bangalore,53172.0,5.6,5700.0,3,Month-to-month,UPI,42,7.8,19,Yes
+C0462,37,Male,Mumbai,71594.0,0.4,3601.0,2,Month-to-month,Debit Card,43,5.5,11,No
+C0456,53,Female,Hyderabad,66288.0,5.3,2658.0,1,Month-to-month,UPI,11,6.0,22,No
+C0398,29,Male,Bangalore,48708.0,1.0,1965.0,1,Two year,credit card,46,9.9,26,No
+C0270,41,Male,Bangalore,,4.1,6412.0,1,Two year,UPI,31,6.7,21,No
+C0202,35,Male,Chennai,47315.0,6.2,9047.0,3,Two year,UPI,14,5.9,15,No
+C0162,35,Female,Mumbai,44552.0,2.4,2752.0,4,one year,UPI,26,9.2,16,No
+C0402,29,Male,Coimbatore,65927.0,6.0,2651.0,3,One year,Cash,17,9.9,16,No
+C0477,29,Female,Chennai,55027.0,5.4,5595.0,4,One year,Credit Card,22,8.1,20,No
+C0106,30,Male,Chennai,46120.0,7.8,6081.0,0,One year,Debit Card,6,6.1,17,No
+C0390,37,Male,Pune,44614.0,2.2,8541.0,3,Two year,UPI,8,6.1,21,No
+C0002,27,Male,Coimbatore,18000.0,7.8,5315.0,1,One year,Cash,1,7.9,18,No
+C0570,53,Female,Bangalore,72994.0,5.6,3451.0,3,Two year,UPI,1,4.0,18,No
+C0081,28,Female,Pune,48580.0,0.6,5422.0,4,Month-to-month,UPI,16,6.5,25,No
+C0206,33,Female,Chennai,19441.0,0.6,1003.0,4,Month-to-month,UPI,14,7.7,19,No
+C0035,49,Male,Coimbatore,71211.0,7.6,7260.0,0,Month-to-month,Credit Card,30,5.4,15,No
+C0509,36,Female,Coimbatore,54437.0,3.6,5011.0,1,Month-to-month,UPI,10,6.8,21,No
+C0428,29,Male,Pune,124030.0,0.8,5009.0,3,One year,UPI,1,6.2,18,No
+C0455,40,Female,Chennai,75969.0,3.7,7323.0,1,Two year,UPI,28,5.5,20,No
+C0367,29,Male,Coimbatore,49306.0,0.3,4835.0,2,Month-to-month,DEBIT CARD,23,8.2,16,Yes
+C0092,27,Female,Delhi,23358.0,7.9,3761.0,1,Two year,Net Banking,19,7.3,20,No
+C0340,23,Male,Chennai,45962.0,4.2,3494.0,0,Month-to-month,UPI,31,4.9,28,Yes
+C0565,31,Female,Bangalore,77860.0,6.4,2122.0,3,One year,Credit Card,23,6.6,14,No
+C0346,34,Male,Mumbai,85705.0,5.7,2134.0,1,One year,DEBIT CARD,17,7.6,20,No
+C0242,31,Female,Coimbatore,92291.0,4.9,1470.0,1,Month-to-month,Credit Card,54,10.0,22,No
+C0014,41,Male,Chennai,44944.0,3.1,4188.0,1,Month-to-month,UPI,23,5.2,14,No
+C0316,50,Female,mumbai,32391.0,2.8,7527.0,2,Month-to-month,Credit Card,61,9.3,13,No
+C0388,40,Female,Chennai,41341.0,0.3,4368.0,0,Month-to-month,Net Banking,16,7.9,21,No
+C0274,37,Female,Coimbatore,21698.0,5.9,3148.0,2,Two year,UPI,1,,20,No
+C0167,27,Male,Bangalore,32993.0,4.2,4139.0,1,One year,Debit Card,44,7.9,18,No
+C0317,40,Male,Bangalore,82846.0,5.9,3884.0,3,One year,Net Banking,9,6.7,14,No
+C0485,36,Female,Mumbai,73248.0,4.2,3865.0,1,One year,Debit Card,9,5.6,15,No
+C0598,38,Female,Chennai,,0.8,810.0,2,one year,Net Banking,7,6.4,18,No
+C0505,39,Male,Mumbai,78325.0,5.5,2887.0,0,Two year,Debit Card,1,6.4,13,No
+C0244,23,Female,Bangalore,59281.0,5.8,2098.0,4,Month-to-month,UPI,9,5.1,13,No
+C0567,39,Female,Bangalore,69751.0,3.9,3498.0,0,Month-to-month,Credit Card,42,7.9,14,No
+C0563,28,Female,Chennai,68689.0,3.5,3374.0,0,Month-to-month,Net Banking,17,5.8,19,No
+C0190,20,Male,Chennai,45419.0,6.7,4527.0,3,Month-to-month,UPI,39,5.2,21,Yes
+C0476,33,Female,Coimbatore,59692.0,1.6,7473.0,3,Month-to-month,Debit Card,18,8.5,16,No
+C0511,33,Male,Mumbai,39716.0,1.5,2109.0,2,Two year,UPI,37,4.3,13,Yes
+C0059,32,Male,Chennai,36793.0,5.7,4509.0,2,Month-to-month,UPI,25,8.6,12,Yes
+C0475,48,Male,Hyderabad,18000.0,0.7,2881.0,5,Two year,Debit Card,34,9.8,19,No
+C0561,50,Female,Delhi,62188.0,1.8,3108.0,3,Two year,Debit Card,3,5.9,20,No
+C0253,22,Male,Pune,,5.8,2211.0,2,Month-to-month,Net Banking,1,8.7,17,No
+C0022,32,Male,CHENNAI,50519.0,6.3,5620.0,1,One year,Credit Card,1,7.4,19,No
+C0314,50,Other,Coimbatore,57043.0,3.0,5564.0,3,Two year,UPI,35,8.9,15,No
+C0460,48,Female,Chennai,64502.0,2.5,3488.0,1,Two year,UPI,30,5.1,16,No
+C0161,56,Female,Bangalore,67907.0,7.0,5333.0,2,Month-to-month,UPI,45,8.0,21,No
+C0277,36,Male,Delhi,60877.0,6.7,2514.0,2,Month-to-month,Net Banking,47,6.7,24,No
+C0192,32,Female,Pune,49290.0,5.6,60000.0,5,Two year,Credit Card,16,6.7,17,No
+C0386,32,Male,Pune,43061.0,5.5,2472.0,2,One year,UPI,13,7.9,22,No
+C0414,37,Female,Hyderabad,47450.0,0.9,1685.0,4,Month-to-month,Debit Card,42,9.5,17,No
+C0492,24,Female,Mumbai,61102.0,7.3,5567.0,3,One year,Credit Card,3,8.0,23,No
+C0344,40,Male,Bangalore,72153.0,3.3,3857.0,4,Month-to-month,UPI,25,6.8,15,Yes
+C0309,57,Male,Delhi,54269.0,5.5,3390.0,6,Two year,Credit Card,11,7.8,27,No
+C0131,36,Male,Bangalore,83977.0,4.0,6416.0,4,One year,Credit Card,30,6.9,20,No
+C0100,36,Male,Chennai,73761.0,1.7,6592.0,1,Month-to-month,UPI,1,7.0,13,No
+C0373,48,Female,Chennai,80809.0,2.6,1737.0,6,Month-to-month,UPI,63,8.8,21,Yes
+C0088,24,Female,Mumbai,38461.0,1.7,1436.0,2,One year,Credit Card,25,5.2,15,No
+C0459,36,Male,Chennai,40887.0,6.6,2036.0,45,monthly,UPI,4,3.9,17,No
+C0331,39,Female,Bangalore,52045.0,1.8,5764.0,3,Two year,UPI,32,7.4,15,Yes
+C0215,18,Female,Delhi,34598.0,1.9,7499.0,2,Month-to-month,Debit Card,19,6.2,27,No
+C0467,44,Female,Bangalore,54417.0,7.4,7359.0,4,Month-to-month,Debit Card,43,8.8,17,Yes
+C0122,18,Male,Pune,62168.0,2.0,3290.0,0,Month-to-month,Credit Card,18,9.9,20,Yes
+C0021,49,Female,Mumbai,52797.0,7.2,5468.0,3,Month-to-month,Credit Card,15,6.3,11,No
+C0072,18,Female,Chennai,85247.0,2.3,5248.0,3,Month-to-month,Debit Card,16,8.3,18,No
+C0107,37,Male,Bangalore,33987.0,6.1,4461.0,5,Month-to-month,Net Banking,23,10.0,15,No
+C0271,36,Other,Pune,96826.0,3.2,3053.0,2,One year,Debit Card,20,7.4,17,No
+C0436,44,Male,Delhi,,5.0,5004.0,2,One year,UPI,48,6.4,13,No
+C0103,30,Female,Bangalore,40842.0,7.6,7822.0,2,Month-to-month,Credit Card,17,6.6,13,No
